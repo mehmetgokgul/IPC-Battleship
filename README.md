@@ -21,13 +21,12 @@ To run this project, you need to have **ncurses** installed on your system. You 
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
 
-##Compilation
 You can compile the project using gcc:
 
 ```
 gcc -o battleship battleship.c -lncurses
 ```
-Running the Game
+
 To start the game, run the following command:
 
 ```
