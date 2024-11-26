@@ -1,5 +1,4 @@
 # IPC-Battleship
-BattleShip Game with Shared Memory
 
 ## Overview
 This project is a text-based version of the classic **Battleship** game. It utilizes **shared memory** for inter-process communication and **ncurses** for a simple graphical interface in the terminal. The game allows two players to play against each other, place ships on a grid, take turns to attack, and save/load the game state.
